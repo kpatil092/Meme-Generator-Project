@@ -1,9 +1,9 @@
 {
-  "short_name": "Notes App",
-  "name": "Markdown Notes App",
+  "short_name": "Meme Generator",
+  "name": "Meme Generator Application",
   "icons": [
     {
-      "src": "notes-img.png",
+      "src": "troll_face.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
